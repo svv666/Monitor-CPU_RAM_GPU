@@ -1,0 +1,12 @@
+{
+    "x": 1025,
+    "y": 0,
+    "theme": "Dark Neon",
+    "opacity": 0.7,
+    "interval": 1.0,
+    "mode": "compact",
+    "locked": true,
+    "autohide": true,
+    "show_bars": true,
+    "autostart": false
+}
